@@ -31,8 +31,8 @@ netdna.bootstrapcdn.com
 
 ###关于测试
 访问http://ce.cloud.360.cn/task  网站测试中国访问速度
- 测试 https://fonts.googleapis.com/icon?family=Material+Icons
- 修改后再测 https://font.c2cmalls.com/icon?family=Material+Icons
+ 测试 http://fonts.googleapis.com/css?family=Open+Sans:200,400,600,700
+ 修改后再测 http://font.c2cmalls.com/css?family=Open+Sans:200,400,600,700
  
 ### 侵权
 如果有侵权,或任何影响到您的地方,请留言一定删除!
@@ -68,7 +68,7 @@ Domain / ajax / libs / * try before the domain name cdnjs.c2cbc.com
 
 About Test
 
-China test site visit http://ce.cloud.360.cn/task access speed test measured after https://fonts.googleapis.com/icon?family=Material+Icons modify https://font.c2cmalls.com / icon? family = Material + Icons
+China test site visit http://ce.cloud.360.cn/task access speed test measured after http://fonts.googleapis.com/css?family=Open+Sans:200,400,600,700 modify  http://font.c2cmalls.com/css?family=Open+Sans:200,400,600,700
 
 Infringement
 
